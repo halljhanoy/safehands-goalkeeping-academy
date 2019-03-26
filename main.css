@@ -1,0 +1,130 @@
+html{
+  font-family: 'Graduate', cursive;
+background-image: url("jonathan-petersson-210341-unsplash3.jpg");
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: #99235c;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    border:2px solid#99235c;
+  }
+
+  .safe{
+    float: left;
+    margin: 19px 0 0 20px;
+    padding: 0;
+    color:#99235c;
+    border:2px solid#99235c;
+  }
+
+  h1{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 40px;
+    color: #99235c;
+    border: 3px solid#99235c;
+    font-size: 90px;
+    border-radius: 10px;
+    margin-top: 15px;
+    text-shadow: 3px 2px #ffffff;
+  }
+
+  .p1{
+    font-size:20px; 
+    text-align: center;
+    color: #99235c;
+    font-size: 60px;
+    text-shadow: 3px 2px #ffffff;
+  }
+
+h2{
+  text-align: center;
+  color:#99235c;
+  text-shadow: 3px 2px grey;
+  font-size: 30px;
+}
+
+p{margin-left:30px;
+  margin-right:30px; 
+  color: #99235c;
+}
+
+.color{
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.opacity{
+  background-color: grey;
+  border-radius: 10px;
+  opacity: 0.7;
+}
+
+.icons{
+  font-size: 70px;
+  text-align: center;
+  color:#99235c;
+}
+
+a{
+  color:#99235c;
+}
+
+h4{
+   text-align:center;
+   color: #99235c;
+}
+
+strong{
+  color: #99235c;
+}
+
+.body{
+  background-color: #ffffff;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 210px;
+}
+
+div.gallery:hover {
+  border: 1px solid #99235c;
+  background-color: #99235c;
+}
+
+div.gallery img {
+  width: 200px;
+  height:200px;
+  margin: 5px 5px 5px 5px;
+}
+
+.logo{
+  width: 400px;
+  height: 300px;
+  margin: 10px 500px 10px 435px;
+}
+
+
+video{
+  margin: 5px 5px 5px 30px;
+}
